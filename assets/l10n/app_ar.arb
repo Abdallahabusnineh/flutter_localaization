@@ -1,0 +1,12 @@
+{
+  "localizationButton": "العربية",
+"login":"تسجيل الدخول",
+"userName":"اسم المستخدم",
+  "password": "كلمة المرور",
+  "enterUserName": "ادخل اسم المستخدم",
+  "enterPassword": "ادخل كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "anotherLogin": "تسجيل الدخول باستخدام",
+  "registerAnAccount": "انشاء حساب",
+  "dontHaveAnAccount": "ليس لديك حساب؟"
+}

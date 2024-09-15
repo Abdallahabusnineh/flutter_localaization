@@ -1,0 +1,12 @@
+{
+  "localizationButton": "English",
+"login": "Login",
+  "userName": "Username",
+  "password": "Password",
+"enterUserName": "Enter username",
+"enterPassword": "Enter Password",
+  "forgotPassword": "Forgot Password?",
+  "anotherLogin": "or sign in with",
+  "registerAnAccount": "Register",
+  "dontHaveAnAccount": "Don't have an account?"
+}
